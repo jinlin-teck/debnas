@@ -81,18 +81,18 @@ https://localhost:9443
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=kekylin/debnas&type=Date&theme=dark
+      https://star-history.dera.page/svg?repos=kekylin/debnas&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=kekylin/debnas&type=Date
+      https://star-history.dera.page/svg?repos=kekylin/debnas&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=kekylin/debnas&type=Date"
+    src="https://star-history.dera.page/svg?repos=kekylin/debnas&type=Date"
   />
 </picture>
 
